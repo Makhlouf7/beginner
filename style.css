@@ -1,0 +1,26 @@
+#happy{
+    width: 50%;
+    margin-left: 25%;
+}
+#main{
+    width: 50%;
+    margin-left: 25%;
+}
+.Ziko{
+    width: 100%;
+}
+.text{
+    text-align: center;
+    color: white;
+}
+#f{
+    font-size: 3rem;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
